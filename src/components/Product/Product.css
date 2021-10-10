@@ -11,10 +11,12 @@
 .btn-regular{
     background-color: goldenrod;
     width: 150px;
-    height: 25px;
-    border: 1px solid gray;
+    height: 35px;
+    border: 1.2px solid rgb(94, 94, 94);
     border-radius: 5px;
     cursor: pointer;
+    margin: 8px 0;
+    padding: 2px;
 }
 .icon-color{
     color: gold;
